@@ -1,1 +1,1 @@
-You can also set the Cut command (kill-ring-save 【Alt+w】) to cut the whole line when there's no selection.
+You can also set You can also instruct kill-line bound to C-k
